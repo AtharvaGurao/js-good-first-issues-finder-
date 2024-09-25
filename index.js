@@ -113,3 +113,5 @@ const getGoodFirstIssues = async () => {
 
 // Run the script
 getGoodFirstIssues();
+// Run the script
+getGoodFirstIssues();
